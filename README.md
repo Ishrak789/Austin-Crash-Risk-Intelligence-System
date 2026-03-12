@@ -27,8 +27,8 @@ This project explores how data science and machine learning can be used to **ide
 - **Outcomes**: Crash occurrence, crash count, estimated crash cost  
 
 To make the prediction setup realistic, we also created a **full location-time grid** that included both:
-- periods/areas **where crashes occurred**
-- periods/areas **where no crashes occurred**
+- Periods/areas **where crashes occurred**
+- Periods/areas **where no crashes occurred**
 
 This helped the model learn **true crash risk patterns**, rather than only learning from crash events themselves.
 
@@ -85,8 +85,8 @@ This helped the model learn **true crash risk patterns**, rather than only learn
 ### 3) Crash Count Estimation — Hurdle Model
 
 ➡️ The hurdle model separated:
-- **whether a crash happens**
-- **how many crashes happen if one occurs**
+- **Whether a crash happens**
+- **How many crashes happen if one occurs**
 
 In practice, most location-hour bins had **zero crashes**, and most non-zero cases had only **one crash**, so the count model added limited operational value. The strongest business value came from the **occurrence model**, which better supported prioritization and planning.
 
