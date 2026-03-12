@@ -128,6 +128,6 @@ In practice, most location-hour bins had **zero crashes**, and most non-zero cas
 - **Languages**: Python, SQL  
 - **Libraries**: pandas, numpy, scikit-learn, LightGBM, XGBoost, shap, h3, matplotlib  
 - **Data Sources**: Austin Open Data, weather data  
-- **Tools**: Jupyter Notebook, geospatial Analysis Workflows  
+- **Tools**: Jupyter Notebook, Geospatial Analysis Workflows  
 
 ---
