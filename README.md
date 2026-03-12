@@ -6,7 +6,7 @@ This project explores how data science and machine learning can be used to **ide
 
 ## 📌 Project Overview
 - **Goal**: Predict **crash likelihood** and analyze **crash severity/cost patterns** across Austin at the **location-hour level**.  
-- **Why it matters**: Austin’s open crash data captures about **10 years** of incidents and roughly **224,000 raw records**, showing the scale of the traffic safety problem. With crash-related public costs estimated at **$35.24M in 2022 dollars**, a model that improves targeting of high-risk areas and times can support smarter operational and infrastructure decisions. 
+- **Why it matters**: Austin’s open crash data captures about **10 years** of incidents and roughly **224,000 raw records**, showing the scale of the traffic safety problem. With crash-related public costs estimated at **$35.24M in 2022**, a model that improves targeting of high-risk areas and times can support smarter operational and infrastructure decisions. 
 - **Approach**: Clean and transform crash-level data, enrich it with weather and time-based features, build predictive models, and evaluate how well they identify high-risk locations and conditions.  
 
 ---
