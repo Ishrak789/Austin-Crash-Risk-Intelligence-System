@@ -1,6 +1,6 @@
 # Austin-Crash-Risk-Intelligence-System
 
-This project explores how data science and machine learning can be used to **identify when and where traffic crashes are most likely to happen in Austin, and estimate their potential severity and cost**. Using Austin’s public crash dataset along with weather, temporal, and spatial features, we built predictive models that help turn historical crash records into **actionable risk insights for public safety, city planning, and mobility decision-making**.
+This project explores how data science and machine learning can be used to **identify when and where traffic crashes are most likely to happen in Austin, and estimate their potential severity and cost**. Using Austin’s public crash dataset along with weather, temporal, and spatial features, I built predictive models that help turn historical crash records into **actionable risk insights for public safety, city planning, and mobility decision-making**.
 
 ---
 
